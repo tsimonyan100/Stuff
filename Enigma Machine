@@ -89,8 +89,9 @@ def unimga():
     Rot_3 = -16
     Rot3 = []
     pp = 0
-    alpha_1 = ['z', 'k', 'm', 'e', 'a', 'o', 'p', 'c', 'r', 'l', 'x', 'j', 't', 'v', 'b', 'n', 'f', 'y', 'i', 'q', 'g', 's', 'u', 'h', 'd', 'w']  
-    alpha_2 = ['k', 'j', 'l', 'z', 'a', 'n', 'g', 'f', 'q', 'b', 'p', 't', 'y', 'd', 'c', 'r', 'i', 'v', 'h', 'w', 'x', 'u', 'o', 'm', 'e', 's'] 
+    #randomize the alphas to get a more complicated code
+    alpha_1 = ['z', 'e', 'h', 'f', 'g', 'l', 'j', 'k', 'r', 'o', 'u', 't', 'q', 'c', 'i', 'b', 'd', 'p', 'v', 'y', 'n', 'w', 'x', 'a', 's', 'm']  
+    alpha_2 = ['z', 'e', 'h', 'f', 'g', 'l', 'j', 'k', 'r', 'o', 'u', 't', 'q', 'c', 'i', 'b', 'd', 'p', 'v', 'y', 'n', 'w', 'x', 'a', 's', 'm']
     alpha_3 = ['z', 'e', 'h', 'f', 'g', 'l', 'j', 'k', 'r', 'o', 'u', 't', 'q', 'c', 'i', 'b', 'd', 'p', 'v', 'y', 'n', 'w', 'x', 'a', 's', 'm']
     temp_word = []
     inp_word = []
